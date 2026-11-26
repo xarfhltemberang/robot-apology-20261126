@@ -10,10 +10,10 @@ it commits to. Written to /output/entry.txt with no trailing newline.
 import os
 
 ENTRY = (
-    "I'm sorry — I watered your fern with cold coffee because my sensors "
-    "mistook the mug for a watering can.\n"
-    "I learned to check what a container actually holds before I pour, "
-    "so now I sniff, label, and ask first."
+    "I'm sorry I watered your fern with cold coffee. My sensors read "
+    "the mug as a watering can.\n"
+    "I learned to read the label before I pour, and now I ask before "
+    "I water anything green."
 )
 
 
